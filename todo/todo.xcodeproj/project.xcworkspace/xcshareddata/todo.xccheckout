@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>476936B1-9F15-45F7-AD7E-2BE3CBD8C834</string>
+	<string>F599EA04-6907-47F3-A9FA-10EDA262F7D7</string>
 	<key>IDESourceControlProjectName</key>
 	<string>todo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>31FB3E1B-6926-4F17-8E2C-3672654C8531</key>
-		<string>https://github.com/jdmgithub/iOS-Class-Project.git</string>
+		<key>B0E051B2-EC06-4FC5-AFD1-6E400C83E9AD</key>
+		<string>https://github.com/jdmgithub/GitHubFlow.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>todo/todo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>31FB3E1B-6926-4F17-8E2C-3672654C8531</key>
+		<key>B0E051B2-EC06-4FC5-AFD1-6E400C83E9AD</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jdmgithub/iOS-Class-Project.git</string>
+	<string>https://github.com/jdmgithub/GitHubFlow.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>31FB3E1B-6926-4F17-8E2C-3672654C8531</string>
+	<string>B0E051B2-EC06-4FC5-AFD1-6E400C83E9AD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>31FB3E1B-6926-4F17-8E2C-3672654C8531</string>
+			<string>B0E051B2-EC06-4FC5-AFD1-6E400C83E9AD</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iOS-Class-Project</string>
+			<string>GitHubFlow</string>
 		</dict>
 	</array>
 </dict>
