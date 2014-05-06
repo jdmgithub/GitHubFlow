@@ -11,7 +11,6 @@
 
 @implementation TDLTableViewCell
 
-//@synthesize profileInfo=_profileInfo;
 {
 
 
@@ -54,15 +53,6 @@ UILabel * profileURL;
     return self;
 }
 
-//- (NSDictionary *)profileInfo
-//{
-//    if (_profileInfo == nil)
-//    {
-////        _profileInfo = @{@"name" :@"Default Name",@"image":[UIImage imageNamed:@"default"]};
-////    }
-////    
-//    return _profileInfo;
-//}
 
 
 
@@ -93,7 +83,7 @@ UILabel * profileURL;
 {
     [super setSelected:selected animated:animated];
 
-    // Configure the view for the selected state
+
 }
 
 @end
