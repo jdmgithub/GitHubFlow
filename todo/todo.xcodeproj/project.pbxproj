@@ -36,6 +36,7 @@
 		1B36463F18EC8AE400C72836 /* TJMercer.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B36463018EC8AE400C72836 /* TJMercer.png */; };
 		1B36464218EC917300C72836 /* AustinNolan.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B36464118EC917300C72836 /* AustinNolan.png */; };
 		1B36464418EC918000C72836 /* edsalter.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B36464318EC918000C72836 /* edsalter.png */; };
+		1B3FA48C1919A26E00888A45 /* TDLNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B3FA48B1919A26E00888A45 /* TDLNavigationController.m */; };
 		1BAA827219195A2D00B9A853 /* TDLSingleton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BAA827119195A2D00B9A853 /* TDLSingleton.m */; };
 		1BEEE5FE18EDA78E00EF9A41 /* TDLTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BEEE5FD18EDA78E00EF9A41 /* TDLTableViewCell.m */; };
 		1BF94EF618EF33260044675B /* GitHubFlow.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BF94EF518EF33260044675B /* GitHubFlow.storyboard */; };
@@ -87,6 +88,8 @@
 		1B36463018EC8AE400C72836 /* TJMercer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TJMercer.png; path = "../../../../../Desktop/Class Images/TJMercer.png"; sourceTree = "<group>"; };
 		1B36464118EC917300C72836 /* AustinNolan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AustinNolan.png; path = "../../../../../Desktop/Class Images/AustinNolan.png"; sourceTree = "<group>"; };
 		1B36464318EC918000C72836 /* edsalter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = edsalter.png; path = "../../../../../Desktop/Class Images/edsalter.png"; sourceTree = "<group>"; };
+		1B3FA48A1919A26E00888A45 /* TDLNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDLNavigationController.h; sourceTree = "<group>"; };
+		1B3FA48B1919A26E00888A45 /* TDLNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDLNavigationController.m; sourceTree = "<group>"; };
 		1BAA827019195A2D00B9A853 /* TDLSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDLSingleton.h; sourceTree = "<group>"; };
 		1BAA827119195A2D00B9A853 /* TDLSingleton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDLSingleton.m; sourceTree = "<group>"; };
 		1BEEE5FC18EDA78E00EF9A41 /* TDLTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDLTableViewCell.h; sourceTree = "<group>"; };
@@ -230,6 +233,8 @@
 			children = (
 				1B18637E18EC4C77007B1E68 /* TDLTableViewController.h */,
 				1B18637F18EC4C77007B1E68 /* TDLTableViewController.m */,
+				1B3FA48A1919A26E00888A45 /* TDLNavigationController.h */,
+				1B3FA48B1919A26E00888A45 /* TDLNavigationController.m */,
 				1BEEE60018EDA7BC00EF9A41 /* TableView */,
 			);
 			name = Controllers;
@@ -359,6 +364,7 @@
 			files = (
 				1BEEE5FE18EDA78E00EF9A41 /* TDLTableViewCell.m in Sources */,
 				1B18638018EC4C77007B1E68 /* TDLTableViewController.m in Sources */,
+				1B3FA48C1919A26E00888A45 /* TDLNavigationController.m in Sources */,
 				1BAA827219195A2D00B9A853 /* TDLSingleton.m in Sources */,
 				1B1D722418F2F432008B3913 /* TDLGitHubRequest.m in Sources */,
 				1B18635C18EC4AF9007B1E68 /* main.m in Sources */,

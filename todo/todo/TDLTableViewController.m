@@ -141,7 +141,23 @@
     [super viewDidLoad];
     
     self.navigationItem.rightBarButtonItem = self.editButtonItem;
+
+    UIBarButtonItem * addGitHubUser = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(openNewUser)];
+    
+    self.navigationItem.leftBarButtonItem = addGitHubUser;
+
+
+    
+    
 }
+
+-(void)openNewUser
+{
+
+
+
+}
+
 
 
 - (void)didReceiveMemoryWarning
