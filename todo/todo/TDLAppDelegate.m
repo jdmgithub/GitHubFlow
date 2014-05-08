@@ -8,6 +8,7 @@
 
 #import "TDLAppDelegate.h"
 #import "TDLTableViewController.h"
+#import "TDLNavigationController.h"
 
 @implementation TDLAppDelegate
 
@@ -16,8 +17,11 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 
     TDLTableViewController * rootViewController = [[TDLTableViewController alloc] initWithStyle:UITableViewStylePlain];
-    
+        
+//    UINavigationController * navController = [[UINavigationController alloc] initWithRootViewController:rootViewController];
+
     UINavigationController * navController = [[UINavigationController alloc] initWithRootViewController:rootViewController];
+    
     
     self.window.rootViewController = navController;
     

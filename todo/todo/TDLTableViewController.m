@@ -40,9 +40,7 @@
         self.tableView.contentInset = UIEdgeInsetsMake(50, 0, 0, 0);
         self.tableView.rowHeight = 100;
 
-        
-        
-        
+                
         UIView * header = [[UIView alloc] initWithFrame:CGRectMake(0, 0, 320, 100)];
         
         self.tableView.tableHeaderView = header;
